@@ -6,8 +6,8 @@ const Content = ({ windowWidth, windowHeight }) => {
         <input type="readonly" value="Resize window to see changes" />
 
         <section className="square" >
-            <p>Width: {windowWidth}</p>
-            <p>Height: {windowHeight}</p>
+            <p>Screen width: {windowWidth}</p>
+            <p>Screen height: {windowHeight}</p>
         </section>
     </>
     )
