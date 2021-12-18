@@ -1,3 +1,6 @@
 ## Check out the website,
-#### click the link below
-https://gracious-perlman-f41bc8.netlify.app/
+
+Open [Ifeanyi-useWindowsize-app](https://ifeanyi-usewindowsize.netlify.app/) to view it in the browser.
+
+
+
